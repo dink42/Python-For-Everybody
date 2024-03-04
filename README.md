@@ -2,27 +2,22 @@
 
 > [!NOTE]
 > Welcome to this project!
-> Want to contribute? Check the .\Contribute file.
+> Check out Python for everybody! An awsome book!
+> You can take it as a course on Coursera, or download the free PDF. It's also on kindle for just 1 dollar.
+> Personally the best book in coding I read. Chuck the writer recommends taking the C course after this one.
+> He got a special way of learning. I been struggling with getting some things to stick. But with this book you get the tools, and can practice on your own, really learning what you do.
+> This repo only include code he teaches out, and not all of it. Some things is changed I experiemented while following allong.
 
-## About the project
+## Chuck Lidell
 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> Really big thanks to chuck Lidell for putting this out for free. I been loking for the C book, but I havent found it in a format similair to this one.
+> Also been looking for the book C programming for everybody, to buy, but can't find it. You can find the book at www.cc4e.com. Aswell python www.py4e.com.
 
 ### Future for the project
 
-    1. Placeholder
-        - Placeholder
-            - Placeholder
-            
-    2. Placeholder
-        - Placeholder
-            - Placeholder
-            
-    3. Placeholder
-        - Placeholder
-            - Placeholder
-                - Placeholder
+1. I'm not done and may update this more in the future. With the last parts in the book. I will pay for the course to get all material, in Coursera or on www.py4e.com before I dive deeper into python and web.
+   2. Got some experience with those tools already, but I think I will need to buy the course to really get the juice out of the last part. We will se.
 
-### Future
+### Thanks
 
-> Lorem.
+Thanks for giving out this awsome material for free!
